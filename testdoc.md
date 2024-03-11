@@ -1,4 +1,5 @@
 ### Task 1.1: Explore SharePoint Sites.
+- Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
 
 - **Login to Microsoft 365:**
    - Open your web browser and sign in to `https://www.office.com/login?`. You will see the login screen, enter the username and click on **Next**. 
